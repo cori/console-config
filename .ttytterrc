@@ -1,0 +1,5 @@
+exts=./ttytter-exts/where-inline.pl,./ttytter-exts/timestamp.pl
+slowpost=5
+ansi=1
+leader=+++
+urlopen=/cygdrive/c/Users/coris/AppData/Local/Google/Chrome/Application/chrome.exe %U
