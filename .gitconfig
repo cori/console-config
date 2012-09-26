@@ -3,14 +3,9 @@
 [user]
 	name = cori schlegel
 	email = cori.schlegel@gmail.com
-[core]
-	editor = notepad
-	autocrlf = false
+[mergetool "kdiff3"]
+	path = D:/Program Files (x86)/KDiff3/kdiff3.exe
 [diff]
 	guitool = kdiff3
 [difftool "kdiff3"]
 	path = D:/Program Files (x86)/KDiff3/kdiff3.exe
-[mergetool "kdiff3"]
-	path = D:/Program Files (x86)/KDiff3/kdiff3.exe
-[i18n]
-	filesEncoding = utf-8
